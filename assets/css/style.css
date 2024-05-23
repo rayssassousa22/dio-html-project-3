@@ -37,6 +37,11 @@ footer {
 .sidebar {
     border-right: solid 1px #cdcdcd;
 }
+
+table {
+    border: solid 1px grey;
+}
+
 figure {
     text-align: center;
 }
