@@ -38,7 +38,7 @@ footer {
     border-right: solid 1px #cdcdcd;
 }
 
-table th td {
+table tbody tr {
     border: solid 1px grey;
 }
 
