@@ -38,7 +38,9 @@ footer {
     border-right: solid 1px #cdcdcd;
 }
 
-
+table th td {
+    border: solid 1px grey;
+}
 
 table th {
     border: solid 1px grey;
