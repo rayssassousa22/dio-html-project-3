@@ -42,6 +42,10 @@ table {
     border: solid 1px grey;
 }
 
+table th {
+    border: solid 1px grey;
+}
+
 figure {
     text-align: center;
 }
