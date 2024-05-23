@@ -14,7 +14,7 @@ a { color:blue; text-decoration: none;}
     border-top: solid 1px #cdcdcd;
     border-bottom: solid 1px #cdcdcd;
 }
-main {
+.main {
     max-width: 1440px;
     margin: auto;
     grid-gap: 3rem;
