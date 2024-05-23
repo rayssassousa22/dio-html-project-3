@@ -42,6 +42,10 @@ footer {
     border-right: solid 1px #cdcdcd;
 }
 
+table{
+    max-width: 800px;
+}
+
 table td {
     border: solid 1px grey;
 }
