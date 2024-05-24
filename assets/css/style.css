@@ -52,14 +52,16 @@ table th {
     border-spacing: 0;
 }
 
+table {
+    max-width: 800px;
+}
+
 figure {
     text-align: center;
-    display: inline-block;
 }
 
 .quotes {
     max-width: 250px;
     max-height: 200px;
     background-color: aquamarine;
-    align-self: left;
 }
