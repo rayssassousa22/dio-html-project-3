@@ -44,12 +44,12 @@ footer {
 
 table td {
     border: solid 1px grey;
-    margin: 0;
+    padding: 0;
 }
 
 table th {
     border: solid 1px grey;
-    margin: 0;
+    padding: 0;
 }
 
 figure {
