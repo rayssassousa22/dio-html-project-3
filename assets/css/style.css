@@ -50,6 +50,8 @@ table td {
 table th {
     border: solid 1px grey;
     border-spacing: 0;
+    background-color: lightslategray;
+    font-weight: bold;
 }
 
 table {
