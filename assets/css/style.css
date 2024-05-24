@@ -54,10 +54,12 @@ table th {
 
 figure {
     text-align: center;
+    display: inline-block;
 }
 
 .quotes {
     max-width: 250px;
     max-height: 200px;
     background-color: aquamarine;
+    align-self: left;
 }
