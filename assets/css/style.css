@@ -86,7 +86,7 @@ figure {
     background-color: aquamarine;
 }
 
-#lancamentoDVD tr :hover {
+.interativos tr :hover {
     background-color: lightgray;
 }
 
