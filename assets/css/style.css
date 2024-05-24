@@ -63,6 +63,14 @@ table {
     background-color: greenyellow;
 }
 
+.recorrente{
+    background-color: yellow;
+}
+
+.convidado{
+    background-color: red;
+}
+
 figure {
     text-align: center;
 }
