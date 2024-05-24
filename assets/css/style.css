@@ -72,6 +72,10 @@ table {
     background-color: red;
 }
 
+.colored{
+    background-color: orange;
+}
+
 figure {
     text-align: center;
 }
