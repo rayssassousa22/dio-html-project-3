@@ -86,6 +86,10 @@ figure {
     background-color: aquamarine;
 }
 
+#lancamentoDVD tr :hover {
+    background-color: lightgray;
+}
+
 footer{
     margin: 50px;
 }
